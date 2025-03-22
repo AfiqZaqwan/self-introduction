@@ -1,5 +1,7 @@
 # Afiq Zaqwan Bin Mohd Azman
-![My GIF](https://media.giphy.com/media/nRk3z3sg6Ano6Y7gX2/giphy.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AfiqZaqwan/self-introduction/refs/heads/main/WhatsApp%20Image%202025-03-23%20at%2001.31.33_969e8199.jpg" alt="Commercial Solar Installation" width="400">
+</p>
 
 ## 📌 Position: Technician
 - Attend meetings with clients/main contractors
