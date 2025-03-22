@@ -1,3 +1,6 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAfiqZaqwan%2Fself-introduction&label=VISITORS&countColor=%23ba68c8&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=AfiqZaqwan&color=red&style=flat)
+
 <div align="center">
 
   # Afiq Zaqwan Bin Mohd Azman
