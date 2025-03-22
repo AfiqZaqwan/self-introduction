@@ -1,4 +1,8 @@
-# Afiq Zaqwan Bin Mohd Azman
+<div align="center">
+
+  # Afiq Zaqwan Bin Mohd Azman
+
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/AfiqZaqwan/self-introduction/refs/heads/main/WhatsApp%20Image%202025-03-23%20at%2001.31.33_969e8199.jpg" alt="Commercial Solar Installation" width="400">
 </p>
